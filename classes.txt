@@ -1,0 +1,6 @@
+Cable_connector
+Device
+Lugs
+Thickcables_of_othercolor
+Thin_cables
+White/green_thickcable

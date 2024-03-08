@@ -1,0 +1,12 @@
+path: . # path to 'datasets' folder
+train:
+  - train\images
+val:
+  - val\images
+test:
+  - test\images
+
+# Modify "nc" according to the number of labels
+nc: 4
+
+names: ['brown','dark','green','light']
